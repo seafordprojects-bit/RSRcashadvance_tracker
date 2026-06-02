@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // Change this line if you name the repo something else.
 export default defineConfig({
   plugins: [react()],
-  base: '/sfship-tracker/',
+  base: '/RSRcashadvance_tracker/',
 })
