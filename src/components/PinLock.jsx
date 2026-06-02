@@ -33,7 +33,7 @@ export default function PinLock({ onUnlock }) {
   return (
     <div className="pin-screen">
       <div className="pin-brand">RSR</div>
-      <h1 className="pin-title">Cash Advance Tracker</h1>
+      <h1 className="pin-title">Billing Tracker</h1>
       <p className="pin-sub">Enter PIN to unlock</p>
 
       <div className={'pin-dots' + (shake ? ' shake' : '')}>
