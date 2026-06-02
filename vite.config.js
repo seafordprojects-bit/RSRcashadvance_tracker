@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // Change this line if you name the repo something else.
 export default defineConfig({
   plugins: [react()],
-  base: '/RSRcashadvance_tracker/',
+  base: '/RSR-billing-tracker/',
 })
