@@ -47,7 +47,7 @@ export default function App() {
       <header className="topbar">
         <div className="topbar-brand">RSR</div>
         <div>
-          <h1>Cash Advance Tracker</h1>
+          <h1>Billing Tracker</h1>
           <p>Engineering Services</p>
         </div>
       </header>
